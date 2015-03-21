@@ -6,4 +6,4 @@ save as load.bat, run it.
 #### Every Usage After
 Run that file (load.bat).
 ### Latest Stable Build
-[BuildStatus](github.com/thelucyclub/ServerPE_Windows)
+[:radio_button:](github.com/thelucyclub/ServerPE_Windows) <- Click to see latest builds.
