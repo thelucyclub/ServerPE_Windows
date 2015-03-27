@@ -1,4 +1,4 @@
-# Go [here](gitHub.com/theLucyClub/serverPE_Windows/releases) for latest release.
+# Go [here](releases) for latest release.
 ## ServerPE_Windows
 ### Usage
 #### First Usage
