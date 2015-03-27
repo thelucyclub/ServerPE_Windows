@@ -1,3 +1,4 @@
+# For the latest release, check out the realeases section.
 ## ServerPE_Windows
 ### Usage
 #### First Usage
