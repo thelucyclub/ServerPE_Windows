@@ -1,4 +1,4 @@
-# For the latest release, check out the realeases section.
+# Go [here](gitHub.com/theLucyClub/serverPE_Windows/releases) for latest release.
 ## ServerPE_Windows
 ### Usage
 #### First Usage
@@ -7,4 +7,4 @@ save as load.bat, run it.
 #### Every Usage After
 Run that file (load.bat).
 ### Latest Stable Build
-[:radio_button:](github.com/thelucyclub/ServerPE_Windows) <- Click to see latest builds.
+[:radio_button:](github.com/thelucyclub/ServerPE_Windows/releases) <- Click to see latest builds.
