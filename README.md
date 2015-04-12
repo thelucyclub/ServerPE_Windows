@@ -9,12 +9,14 @@ Run that file (load.bat).
 ### Latest Build
 [:radio_button:](https://github.com/thelucyclub/ServerPE_Windows/releases) __{DEV}__ v0.1-dev_build_3
 ### Planned Builds
-:black_large_square: 0.1
+These are the build planned ahead:
 
-  :white_large_square: 0.2
+[x] 0.1
 
-  :white_large_square: 0.3
+[ ] 0.2
 
-  :white_large_square: 0.4
+[ ] 0.3
 
-  :white_large_square: 0.5
+[ ] 0.4
+
+[ ] 0.5
