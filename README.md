@@ -11,10 +11,10 @@ Run that file (load.bat).
 ### Planned Builds
 :black_large_square: 0.1
 
-:white_large_square: 0.2
+  :white_large_square: 0.2
 
-:white_large_square: 0.3
+  :white_large_square: 0.3
 
-:white_large_square: 0.4
+  :white_large_square: 0.4
 
-:white_large_square: 0.5
+  :white_large_square: 0.5
