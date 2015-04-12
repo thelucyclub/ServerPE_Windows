@@ -6,5 +6,5 @@
 * Save the file as _load.bat_
 #### Every Usage After
 Run that file (load.bat).
-### Latest Stable Build
-[:radio_button:](github.com/thelucyclub/ServerPE_Windows/releases)
+### Latest Build
+[:radio_button:](https://github.com/thelucyclub/ServerPE_Windows/releases) __{DEV}__ v0.0.1-dev_build_3
